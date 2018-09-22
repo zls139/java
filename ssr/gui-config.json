@@ -1,0 +1,55 @@
+{
+	"configs" : [
+		{
+			"remarks" : "banwagongkvm",
+			"id" : "5837DF8ED324CD68A6CE629DA72070E3",
+			"server" : "65.49.219.232",
+			"server_port" : 443,
+			"server_udp_port" : 0,
+			"password" : "password",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "YmFud2Fnb25na3Zt",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : false,
+	"sysProxyMode" : 2,
+	"shareOverLan" : false,
+	"bypassWhiteList" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "fwLqaBrvQl-Gx8TV5x2M",
+	"dns_server" : "",
+	"reconnectTimes" : 2,
+	"randomAlgorithm" : 0,
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connect_timeout" : 5,
+	"proxyRuleMode" : 0,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
